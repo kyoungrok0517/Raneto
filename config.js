@@ -1,13 +1,13 @@
 var config = {
 
 	// Your site title (format: page_title - site_title)
-	site_title: 'Raneto Docs',
+	site_title: 'Kyoungrok\'s Knowledge Base',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: '',
+	base_url: 'knowledge.kyoungrok.com',
 
 	// Used for the "Get in touch" page footer link
-	support_email: '',
+	support_email: 'kyoungrok.jang@gmail.com',
 
 	// Footer copyright content
 	copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="http://raneto.com">Powered by Raneto</a>',
