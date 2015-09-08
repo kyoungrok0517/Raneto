@@ -21,7 +21,3 @@ build/Release
 
 # Dependency directory
 node_modules
-
-# Misc
-*.pages
-*.pdf
